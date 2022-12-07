@@ -1,0 +1,15 @@
+/** @author: A user#8169 */
+
+.container-2sjPya {
+    grid-row: auto auto;
+    grid-template-columns: repeat(auto-fill, minmax(min-content, 50%));
+    grid-auto-flow: row;
+}
+
+.embed-hKpSrO:not(.inlineMediaEmbed-1m3ApS), .reactions-3ryImn, .container-3i3IzO {
+    grid-column: 1 / span 2;
+}
+
+.inlineMediaEmbed-1m3ApS, .messageAttachment-CZp8Iv {
+    align-self: center;
+}
