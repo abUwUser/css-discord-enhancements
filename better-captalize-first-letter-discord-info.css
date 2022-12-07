@@ -1,0 +1,9 @@
+/** @author: A user#8169 */
+
+.info-3pQQBb {
+    text-transform: none;
+}
+
+.info-3pQQBb > span:first-letter { /* fix for lowercase discord version */
+    text-transform: uppercase;
+}
