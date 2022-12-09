@@ -22,6 +22,12 @@ If you always get distracted by your friend's profile panel on chats
 ```
 ![](/assets/boring-profile-panels.png)
 
+### Chat profile panel with the same width as the member list
+```css
+@import url("https://abuwuser.github.io/css-discord-enhancements/profile-panel-same-width-members-list.css");
+```
+![](/assets/profile-panel-same-width-members-list.png)
+
 ### Member list with the same width as the chat profile panel
 ```css
 @import url("https://abuwuser.github.io/css-discord-enhancements/boring-profile-panels.css");
@@ -35,11 +41,11 @@ If you always get distracted by your friend's profile panel on chats
 ![](/assets/no-thanksgiving-discord-icon-decoration-with.png)
 ![](/assets/no-thanksgiving-discord-icon-decoration-without.png)
 
-### Chat profile panel with the same width as the member list
+# Role dot on the right side
 ```css
-@import url("https://abuwuser.github.io/css-discord-enhancements/profile-panel-same-width-members-list.css");
+@import url("https://abuwuser.github.io/css-discord-enhancements/role-dot-right.css");
 ```
-![](/assets/profile-panel-same-width-members-list.png)
+![](/assets/role-dot-right.png)
 
 ### Two row attachment grid
 > **Note**: There is an experiment called "Media Mosaic" that does the same
