@@ -1,19 +1,42 @@
 /** @author: A user#8169 */
 
+/* chat */
+
 .headerText-2z4IhQ {
     display: inline-flex;
 }
 
 .headerText-2z4IhQ span:first-child:not(.username-h_Y3Us) {
     order: 1;
-    margin-left: 8px;
+    margin-left: 4px;
 }
 
-.headerText-2z4IhQ span .roleDot-PzIfeF {
+.headerText-2z4IhQ span .roleDot-PzIfeF, .roleDotLeft-1EL7tW{
     margin: 0;
 }
 
 .headerText-2z4IhQ.hasRoleIcon-1Usc6e span:last-child {
     order: 2;
+}
+
+/* member list and "replying-to" */
+
+.username-u-ebrn {
+    display: inline-flex;
+    flex-direction: row-reverse;
+}
+
+.roleDotLeft-1EL7tW {
     margin-left: 4px;
+}
+
+/* replied messages */
+
+.repliedMessage-3Z6XBG > span:not(.username-h_Y3Us) {
+    order: 1;
+    margin-right: 4px;
+}
+
+.repliedTextContentIcon-1LQXRB, .repliedTextPreview-1bvxun {
+    order: 2;
 }
